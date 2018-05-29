@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="buttonBackGroundColor">#00FAFA</color>
+    <color name="buttonTextColor">#9D1B0D</color>
+    <color name="backGroundColor">#E1F7F4</color>
+    <color name="EditTextbackGroundColor">#D4FAD9</color>
+    <color name="RadioGroupColor">#F9D0D0</color>
+    <color name="CheckBoxBackgroundColor">#A6F4A4</color>
+
+
+</resources>

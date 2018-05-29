@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewsAndLayouts</string>
+    <string name="title_activity_main">main</string>
+    <string name="greater">&gt;</string>
+    <string name="lower">&lt;</string>
+    <string name="and">&amp;</string>
+</resources>
